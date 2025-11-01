@@ -22,15 +22,4 @@ build/
 *.swo
 *~
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Prisma
-backend/prisma/migrations/
-
-# Docker
-*.pid
-*.seed
-*.pid.lock
-
+*.md
