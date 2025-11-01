@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "/api",
+    // use deployed backend
+    baseURL: "https://spotswapper.onrender.com/api",
     headers: {
         "Content-Type": "application/json",
     },
