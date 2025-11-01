@@ -19,16 +19,6 @@ SlotSwapper is a full-stack peer-to-peer time-slot scheduling application where 
 - **State Management**: React Query (TanStack Query)
 - **Routing**: React Router
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Node.js 18+ and npm
-- MongoDB 6+ (or use Docker)
-- Docker (optional, for containerized setup)
-
-### Local Development Setup
-
 #### 1. Backend Setup
 
 ```bash
