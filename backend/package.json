@@ -2,11 +2,11 @@
   "name": "slotswapper-backend",
   "version": "1.0.0",
   "description": "Backend API for SlotSwapper - P2P time-slot scheduling app",
-  "main": "src/server.js",
+  "main": "src/app.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
