@@ -37,9 +37,6 @@ cp .env.example .env
 # Start the backend server (development mode)
 npm run dev
 ```
-
-The backend will run on `http://localhost:5000`
-
 #### 2. Frontend Setup
 
 ```bash
