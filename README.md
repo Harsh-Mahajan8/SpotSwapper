@@ -7,7 +7,7 @@ SlotSwapper is a full-stack peer-to-peer time-slot scheduling application where 
 ### Backend
 
 - **Stack**: Node.js + Express
-- **Database**: MongoDB with Mongoose ODM
+- **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **API**: RESTful API
 
