@@ -1,7 +1,7 @@
 # SlotSwapper - P2P Time-Slot Scheduling Application
 
 SlotSwapper is a full-stack peer-to-peer time-slot scheduling application where users can mark calendar slots as swappable and exchange them with other users.
-## Deployed Link - https://spot-swapper.vercel.app/login
+## Deployed Link - https://spot-swapper-r8nyryxok-harshs-projects-d94bf965.vercel.app/login
 ## 🏗️ Architecture
 
 ### Backend
